@@ -1,3 +1,3 @@
 if __name__ == '__main__':
     print("feature test2 development1 ...")
-    print("feature test2 development complete ...")
+    print("feature test2 development complete & #1 issue fixed ...")
